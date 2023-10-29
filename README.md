@@ -9,8 +9,14 @@ Data Summarization**: Descriptive analytics involves techniques for summarizing 
 **Data Visualization**: It includes creating graphical representations of data, like bar charts, histograms, scatter plots, and box plots, to visually convey patterns, trends, and distributions within the data.
 
 **Frequency Distributions**: Descriptive analytics helps in creating frequency distributions and tables to display how data is distributed across different categories or intervals, which can be particularly useful for categorical data or discrete numeric data.
+
+
 #**Dataset**:
+
+
 Link:https://github.com/siriee/Descriptive-Analytics-on-Bollywood_csv-file/blob/main/bollywood.csv
+
+
 **Description of variables in Dataset**:
 
 SINo - serial number
