@@ -11,7 +11,8 @@ Data Summarization**: Descriptive analytics involves techniques for summarizing 
 **Frequency Distributions**: Descriptive analytics helps in creating frequency distributions and tables to display how data is distributed across different categories or intervals, which can be particularly useful for categorical data or discrete numeric data.
 
 
-#**Dataset**:
+
+_**Dataset**_:
 
 
 Link:https://github.com/siriee/Descriptive-Analytics-on-Bollywood_csv-file/blob/main/bollywood.csv
